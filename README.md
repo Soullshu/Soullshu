@@ -57,14 +57,14 @@ Soull?.createDay();
 
 
 ### 📩 Connect with me:
-]
+
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
-
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
 <br />
 
 
 [instagram]: https://www.instagram.com/soull.xyz/
 [gmail]: Soullxd1@gmail.com
+[discord]: https://discord.com/channels/@me/886617220183101533
 <br />
