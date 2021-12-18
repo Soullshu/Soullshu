@@ -56,4 +56,4 @@ Soull?.createDay();
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886611712369893426?hideDiscrim=true)](https://discord.com/users/886611712369893426)
 
-[![ Soull'un Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![ Soull'un Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Soullshu)](https://github.com/Soullshu/github-readme-stats)
