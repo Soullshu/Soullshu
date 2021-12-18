@@ -55,3 +55,4 @@ Soull?.createDay();
 ```
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886611712369893426?hideDiscrim=true)](https://discord.com/users/886611712369893426) 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886611712369893426?hideDiscrim=true)](https://discord.com/users/903669653933539358) 
