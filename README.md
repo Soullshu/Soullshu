@@ -66,5 +66,5 @@ Soull?.createDay();
 
 [instagram]: https://www.instagram.com/soull.xyz/
 [gmail]: Soullxd1@gmail.com
-[discord]: https://discord.com/channels/@me/886617220183101533
+[discord]: https://discord.com/users/886611712369893426
 <br />
