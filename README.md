@@ -2,7 +2,7 @@
 
 My Discord Account : 'Soull?#0042
 
- class Visaaxd {
+ class Soullshu {
   constructor(...options) {
     this.height = "1.80"
     this.weight = "75"
