@@ -46,8 +46,7 @@ Soull.createDay();
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
 <br />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [instagram]: https://www.instagram.com/soull.xyz/
 [discord]:https://discord.com/users/886611712369893426
