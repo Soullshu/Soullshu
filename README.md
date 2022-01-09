@@ -50,4 +50,3 @@ Soull.createDay();
 [instagram]: https://www.instagram.com/soull.xyz/
 [discord]:https://discord.com/users/886611712369893426
 <br />
-![pngwing com](https://user-images.githubusercontent.com/96332688/148685799-b9b4fa3a-b57f-4b3c-830b-2d1c923ec3af.png)
