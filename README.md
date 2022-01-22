@@ -6,6 +6,7 @@ class Serkan {
     this.type = "human"
     this.job = "student"
     this.sex = "male"
+      this.discord.tag = "Serkan#4196",
   }
 }
 
@@ -43,10 +44,8 @@ Serkan.createDay();
 
 ### 📩 Connect with me:
 
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
 <br/>
 
-[instagram]: https://www.instagram.com/soull.xyz/
 [discord]:https://discord.com/users/933316540089131058
 <br />
