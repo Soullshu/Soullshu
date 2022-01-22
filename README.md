@@ -1,5 +1,5 @@
 ```js
-class Soull {
+class Serkan {
   constructor(...options) {
     this.height = "1.85"
     this.weight = "75"
@@ -9,7 +9,7 @@ class Soull {
   }
 }
 
-class CreateMan extends Soull {
+class CreateMan extends Serkan {
   constructor(...options) {
     super(options);
   }
@@ -34,8 +34,8 @@ class CreateMan extends Soull {
   
 }
 
-let Soull = new CreateMan()
-Soull.createDay();
+let Serkan = new CreateMan()
+Serkan.createDay();
 ```
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/933316540089131058?hideDiscrim=true)](https://discord.com/users/933316540089131058)
 ![Soull github stats](https://github-readme-stats.vercel.app/api?username=Soullshu&show_icons=true&theme=tokyonight)                         
