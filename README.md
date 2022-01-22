@@ -37,7 +37,7 @@ class CreateMan extends Soull {
 let Soull = new CreateMan()
 Soull.createDay();
 ```
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886611712369893426?hideDiscrim=true)](https://discord.com/users/886611712369893426)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/933316540089131058?hideDiscrim=true)](https://discord.com/users/933316540089131058)
 ![Soull github stats](https://github-readme-stats.vercel.app/api?username=Soullshu&show_icons=true&theme=tokyonight)                         
 
 
@@ -48,5 +48,5 @@ Soull.createDay();
 <br/>
 
 [instagram]: https://www.instagram.com/soull.xyz/
-[discord]:https://discord.com/users/886611712369893426
+[discord]:https://discord.com/users/933316540089131058
 <br />
