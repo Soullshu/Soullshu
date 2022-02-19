@@ -38,6 +38,7 @@ class CreateMan extends Serkan {
 let Serkan = new CreateMan()
 Serkan.createDay();
 ```
+https://cdn.discordapp.com/banners/585151570254102709/a_b10bea4394f451061db7d687613b54bf.gif?size=300
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/933316540089131058?hideDiscrim=true)](https://discord.com/users/933316540089131058)
 ![Soull github stats](https://github-readme-stats.vercel.app/api?username=Soullshu&show_icons=true&theme=tokyonight)                         
 
