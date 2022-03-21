@@ -6,7 +6,7 @@ class Serkan {
     this.type = "human"
     this.job = "student"
     this.sex = "male"
-    this.discord.tag = "Serkan#4196",
+    this.discord.tag = "' Soull?#2018",
   }
 }
 
