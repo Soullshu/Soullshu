@@ -6,7 +6,6 @@ class Serkan {
     this.type = "human"
     this.job = "student"
     this.sex = "male"
-    this.discord.tag = "' Soull?#2018",
   }
 }
 
@@ -41,12 +40,3 @@ Serkan.createDay();
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/966406212176445532?hideDiscrim=true)](https://discord.com/users/966406212176445532)
 ![Soull github stats](https://github-readme-stats.vercel.app/api?username=Soullshu&show_icons=true&theme=tokyonight)                         
-
-
-### 📩 Connect with me:
-
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
-<br/>
-
-[discord]:https://discord.com/users/933316540089131058
-<br />
