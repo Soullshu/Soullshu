@@ -38,5 +38,5 @@ let Serkan = new CreateMan()
 Serkan.createDay();
 ```
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/933316540089131058?hideDiscrim=true)](https://discord.com/users/933316540089131058)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/966406212176445532?hideDiscrim=true)](https://discord.com/users/966406212176445532)
 ![Soull github stats](https://github-readme-stats.vercel.app/api?username=Soullshu&show_icons=true&theme=tokyonight)                         
