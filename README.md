@@ -8,7 +8,6 @@
 ## Yazılım dilleri
 
 <div align="center">
-    <img alt="Python" align="center" src="https://img.shields.io/badge/-Python-660099?style=flat-square&logo=Python&logoColor=white"/>
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
     <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="css3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
