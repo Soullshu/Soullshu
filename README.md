@@ -4,7 +4,7 @@
     <a href="https://discord.com/users/966406212176445532" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/966406212176445532"></a>
 </div>
 
-```js
+```css
 class Serkan {
   constructor(...options) {
     this.height = "1.80"
