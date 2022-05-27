@@ -5,7 +5,7 @@
     <a href="https://discord.com/users/966406212176445532" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/966406212176445532"></a>
 </div>
 
-## Yazılım dilleri
+## Bildiğim ve öğrenmeye çalıştığım diller
 
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
@@ -14,7 +14,7 @@
     <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
 
-## Sociel Media
+## Kullandığım Uygulamalar
 
 <div align="center">
     <a href="https://discord.com/users/909769070239436841" target="_blank"><img src="https://shields.io/badge/Soull-111111.svg?&style=for-the-badge&logo=discord"></a>
