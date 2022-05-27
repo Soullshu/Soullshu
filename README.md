@@ -33,3 +33,10 @@ class Serkan {
 ## 📈 Github Stats
 
 ![Soull's github stats](https://github-readme-stats.vercel.app/api?username=Soullshu&show_icons=true&theme=merko)
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearlessst&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=10&hide_title=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fearlessst&theme=radical" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=fearlessst&bg_color=141321&color=FF9DD9&line=FF9DD9&point=9dffc3" />
+</p>
+
