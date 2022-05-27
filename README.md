@@ -24,4 +24,4 @@
 
 ## 📈 Github Stats
 
-![Soull's github stats](https://github-readme-stats.vercel.app/api?username=Soullshu&show_icons=true&theme=radical)
+![Soull's github stats](https://github-readme-stats.vercel.app/api?username=Soullshu&show_icons=true&theme=dark)
