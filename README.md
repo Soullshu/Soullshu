@@ -1,6 +1,5 @@
 # Hi there , I'm Serkan
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/966406212176445532?hideDiscrim=true)](https://discord.com/users/966406212176445532) 
 ```css
 class Serkan {
   constructor(...options) {
@@ -12,6 +11,8 @@ class Serkan {
   }
 }
 ```
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/966406212176445532?hideDiscrim=true)](https://discord.com/users/966406212176445532) 
+
 
 ## Bildiğim ve öğrenmeye çalıştığım diller
 
