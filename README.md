@@ -32,7 +32,7 @@ class Serkan {
 
 ## 📈 Github Stats
 
-![Soull's github stats](https://github-readme-stats.vercel.app/api?username=Soullshu&show_icons=true&theme=merko)
+![Soull's github stats](https://github-readme-stats.vercel.app/api?username=Soullshu&show_icons=true&theme=dark)
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Soullshu&theme=merko"/>
