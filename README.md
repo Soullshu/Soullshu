@@ -2,6 +2,8 @@
 
 <div align="center">
     <a href="https://discord.com/users/966406212176445532" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/966406212176445532"></a>
+</div>
+
 ```js
 class Serkan {
   constructor(...options) {
