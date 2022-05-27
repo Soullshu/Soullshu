@@ -1,9 +1,19 @@
 # Hi there , I'm Serkan
 
-
 <div align="center">
     <a href="https://discord.com/users/966406212176445532" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/966406212176445532"></a>
-</div>
+```js
+class Serkan {
+  constructor(...options) {
+    this.height = "1.80"
+    this.weight = "75"
+    this.type = "human"
+    this.job = "student"
+    this.sex = "male"
+  }
+}
+```
+
 
 ## Bildiğim ve öğrenmeye çalıştığım diller
 
