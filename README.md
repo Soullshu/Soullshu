@@ -35,6 +35,6 @@ class Serkan {
 ![Soull's github stats](https://github-readme-stats.vercel.app/api?username=Soullshu&show_icons=true&theme=merko)
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fearlessst&theme=radical"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Soullshu&theme=radical"/>
 </p>
 
