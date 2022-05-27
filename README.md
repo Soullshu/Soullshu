@@ -1,8 +1,6 @@
 # Hi there , I'm Serkan
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/966406212176445532?hideDiscrim=true)](https://discord.com/users/966406212176445532)
-
-```css
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/966406212176445532?hideDiscrim=true)](https://discord.com/users/966406212176445532) ```css
 class Serkan {
   constructor(...options) {
     this.height = "1.80"
@@ -13,7 +11,6 @@ class Serkan {
   }
 }
 ```
-
 
 ## Bildiğim ve öğrenmeye çalıştığım diller
 
