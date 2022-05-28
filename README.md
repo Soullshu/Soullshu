@@ -39,3 +39,9 @@ class Serkan {
 <img src="https://github-profile-trophy.vercel.app/?username=Soullshu&theme=radical"/>
 </p>
 
+<a href="https://open.spotify.com/user/Emperor" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://instagram.com/empisgod" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/MrEmperors" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</br><img src="https://komarev.com/ghpvc/?username=MrEmperors&color=dc143c&label=Ziyaretçi&color=6182e1" alt="Emperor"/>
+
+
