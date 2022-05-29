@@ -11,7 +11,7 @@ class Serkan {
   }
 }
 ```
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/966406212176445532?hideDiscrim=true)](https://discord.com/users/966406212176445532) 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/966406212176445532?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/966406212176445532)
 
 
 ## Bildiğim ve öğrenmeye çalıştığım diller
