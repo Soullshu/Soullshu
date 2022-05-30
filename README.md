@@ -29,7 +29,7 @@ class Serkan {
 <a href="https://instagram.com/serkan_grcn" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://discord.gg/2018" target"blank_"><img src="https://img.shields.io/badge/2018%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
-#Ziyaretçi  
+# Ziyaretçi  
 <p align = "center">
 </p>
 <p align = "center">
