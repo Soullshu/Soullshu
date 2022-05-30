@@ -1,6 +1,6 @@
 # Hi there , I'm Serkan
 
-```css
+```js
 class Serkan {
   constructor(...options) {
     this.height = "1.80"
