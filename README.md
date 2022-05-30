@@ -14,6 +14,13 @@ class Serkan {
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/966406212176445532?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/966406212176445532)
 
 
+<p align = "center">
+ Profile tıklayan kişi sayısı:
+</p>
+<p align = "center">
+<img src="https://profile-counter.glitch.me/{Soullshu}/count.svg" />
+</p> 
+
 ## Bildiğim ve öğrenmeye çalıştığım diller
 
 <div align="center">
