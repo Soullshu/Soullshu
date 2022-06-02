@@ -24,10 +24,10 @@ class Serkan {
 
 <h3>Kişisel hesaplarım:</h3>
 <p align="left">
-<a href="https://discord.com/users/966406212176445532" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://open.spotify.com/user/31fhcr7ata3ehsrqxoto4pkecic4" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://instagram.com/serkan_grcn" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://discord.gg/2018" target"blank_"><img src="https://img.shields.io/badge/2018%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/966406212176445532" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://instagram.com/serkan_grcn" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://sptfy.com/Soullshu" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://discord.gg/2018" target"blank_"><img src="https://img.shields.io/badge/2018%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
 # Ziyaretçi  
 <p align = "center">
