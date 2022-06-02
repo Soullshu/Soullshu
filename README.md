@@ -16,10 +16,10 @@ class Serkan {
 ## Bildiğim ve öğrenmeye çalıştığım diller
 
 <div align="center">
-    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-    <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img alt="css3" align="center" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=white"/>
-    <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
+<img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+<img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img alt="css3" align="center" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=white"/>
+<img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
 
 <h3>Kişisel hesaplarım:</h3>
