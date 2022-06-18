@@ -11,6 +11,7 @@ class Serkan {
   }
 }
 ```
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/966406212176445532)](https://discord.com/users/966406212176445532) <br><br> 
 
 ## Bildiğim ve öğrenmeye çalıştığım diller
 
