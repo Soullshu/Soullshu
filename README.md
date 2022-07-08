@@ -11,7 +11,7 @@ class Serkan {
   }
 }
 ```
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/990628939519131649)](https://discord.com/users/990628939519131649) <br><br> 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/980507379118538802)](https://discord.com/users/980507379118538802) <br><br> 
 
 ## Bildiğim ve öğrenmeye çalıştığım diller
 
@@ -24,7 +24,7 @@ class Serkan {
 
 <h3>Kişisel hesaplarım:</h3>
 <p align="left">
-<a href="https://discord.com/users/990628939519131649" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/980507379118538802" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://instagram.com/serkan_grcn" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://sptfy.com/Soullshu" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
